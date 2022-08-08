@@ -69,6 +69,7 @@ export const countries: Country[] = [
     {text: 'Ecuador', id: 'EC'},
     {text: 'Egypt', id: 'EG'},
     {text: 'El Salvador', id: 'SV'},
+    {text: 'England', id: 'GB-ENG'},
     {text: 'Equatorial Guinea', id: 'GQ'},
     {text: 'Eritrea', id: 'ER'},
     {text: 'Estonia', id: 'EE'},
@@ -166,6 +167,7 @@ export const countries: Country[] = [
     {text: 'Nigeria', id: 'NG'},
     {text: 'Niue', id: 'NU'},
     {text: 'Norfolk Island', id: 'NF'},
+    {text: 'Northern Ireland', id: 'GB-NIR'},
     {text: 'Northern Mariana Islands', id: 'MP'},
     {text: 'Norway', id: 'NO'},
     {text: 'Oman', id: 'OM'},
@@ -195,6 +197,7 @@ export const countries: Country[] = [
     {text: 'San Marino', id: 'SM'},
     {text: 'Sao Tome and Principe', id: 'ST'},
     {text: 'Saudi Arabia', id: 'SA'},
+    {text: 'Scotland', id: 'GB-SCT'},
     {text: 'Senegal', id: 'SN'},
     {text: 'Serbia and Montenegro', id: 'CS'},
     {text: 'Seychelles', id: 'SC'},
@@ -242,9 +245,10 @@ export const countries: Country[] = [
     {text: 'Viet Nam', id: 'VN'},
     {text: 'Virgin Islands, British', id: 'VG'},
     {text: 'Virgin Islands, U.S.', id: 'VI'},
+    {text: 'Wales', id: 'GB-WLS'},
     {text: 'Wallis and Futuna', id: 'WF'},
     {text: 'Western Sahara', id: 'EH'},
     {text: 'Yemen', id: 'YE'},
     {text: 'Zambia', id: 'ZM'},
     {text: 'Zimbabwe', id: 'ZW'}
-    ]
+]
